@@ -1,1 +1,1 @@
-print ("Esto es un cambios desde la rama de develop")
+print ("Esto es un cambios desde la rama de git conflict")
