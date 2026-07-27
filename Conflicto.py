@@ -1,1 +1,1 @@
-Print("Hola sin error")
+print ("Hola sin error")
