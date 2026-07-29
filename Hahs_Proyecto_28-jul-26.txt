@@ -1,0 +1,19 @@
+26319fa Hola
+731d28a Correccion  de print
+7bf2f74 Se agrega archivo de conflicto merge
+f5f0bf4 Cambio merge main
+9ebe59e Cambio conflict test
+65d5dab Ultimo intento de ver conflict merge
+b4d98d1 Cambio para prueba conflict test
+bb56c89 Cambio en .js para conflit git merge
+9a81849 Cambio para prueba de conflictos merge
+2aa2293 Merge branch 'conflict-test'
+285f9cc add Esteo es un cambio desde la rama git loco
+2ced9d8 add Esto es un cambio desde la rama de git conflic
+6958b8a Actailizacion de git diff
+f9ab755 Cambios realizado por utilizacion de comando git diff
+ccb1c0b Cambio de comentario
+b4a3510 Update main.py
+49e49d4 Cmabios por actualizaciones de abril
+f3e7620 Cambios realizados por actualizacion
+667d24d Un saludo a mi hermosa novia Sheyla
